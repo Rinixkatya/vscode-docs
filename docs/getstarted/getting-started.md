@@ -81,7 +81,7 @@ Now that you have a folder open in VS Code, let's take a quick tour of the user 
 
 1. Start typing some HTML code in the `index.html` file.
 
-    As you type, you should see suggestions popping up that help you complete your code (*IntelliSense*). You can use the `kbstyle(Up)` and `kbstyle(Down)` keys to navigate the suggestions, and `kbstyle(Tab)` to insert the selected suggestion.
+    As you type, you should see suggestions popping up that help you complete your code (*IntelliSense*). You can use the `kbstyle(Up)` and `kbstyle(Down)` keys to navigate the suggestions, and `kbstyle(Tab)` or `kbstyle(Enter)` to insert the selected suggestion.
 
 1. Add more files to your workspace and notice that each file opens a new Editor tab.
 
